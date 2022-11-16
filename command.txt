@@ -1,0 +1,2 @@
+create a folder recruitmentproject in any drive
+git clone https://github.com/adhinarayananperumal/recruitmentproject.git

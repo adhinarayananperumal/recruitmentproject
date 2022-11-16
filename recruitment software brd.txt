@@ -1,0 +1,16 @@
+Recruitment Software
+
+Git URL - https://github.com/adhinarayananperumal/recruitmentproject.git
+
+       
+Backend -  java ,  spring boot microservice , jpa - hibernate implementation.      
+Front end - Angular
+
+Use Case:
+
+login
+user - crud
+raise request for new employee hire request - crud
+
+user dashboard
+NEHS(new employee hire request) Dashboard
