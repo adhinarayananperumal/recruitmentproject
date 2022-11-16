@@ -13,4 +13,4 @@ user - crud
 raise request for new employee hire request - crud
 
 user dashboard
-NEHS(new employee hire request) Dashboard
+NEHR(new employee hire request) Dashboard
